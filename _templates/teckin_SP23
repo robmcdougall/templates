@@ -13,7 +13,7 @@ mlink: https://www.teckinhome.com/copy-of-sp-10-1
 
 2019-12-23
 
-***WARNING*** Some versions of Teckin SP23 come without power monitoring and do not use ESP8266. Those cannot be flashed with Tasmota.
+***WARNING*** New models of Teckin SP23 come without power monitoring and do not use ESP8266. These have a new back, with a "chin" and ***cannot*** be flashed with Tasmota.
 
 
 The Teckin SP23 appears to be a clone of the BlitzWolf SHP2 hardware with Tuya software / firmware.
